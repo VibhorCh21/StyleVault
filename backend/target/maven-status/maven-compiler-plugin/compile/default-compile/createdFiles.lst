@@ -1,0 +1,6 @@
+com\ecommerce\model\Order.class
+com\ecommerce\model\Product.class
+com\ecommerce\model\OrderItem.class
+com\ecommerce\dto\AuthResponse.class
+com\ecommerce\repository\UserRepository.class
+com\ecommerce\model\User.class
